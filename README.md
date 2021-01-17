@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.halp.im/github/profile?user_id=125499)
+![](https://hit.yhype.me/github/profile?user_id=125499)
 
 <!--
 **bstrahija/bstrahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
